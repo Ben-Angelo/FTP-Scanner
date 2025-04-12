@@ -24,3 +24,7 @@ This is a simple Python tool that scans a target IP for two insecure services:
 
 ```bash
 python scanner.py 192.168.43.101
+
+
+## Warming
+This tool is for educational and ethical use only. Do not use it on any system you don't have permission to test.
